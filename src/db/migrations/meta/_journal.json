@@ -15,6 +15,13 @@
       "when": 1752080102415,
       "tag": "0001_great_stepford_cuckoos",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752165927086,
+      "tag": "0002_low_shaman",
+      "breakpoints": true
     }
   ]
 }

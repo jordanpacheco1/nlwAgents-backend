@@ -11,10 +11,14 @@
     "module": "nodenext",
     "target": "es2022",
     "noEmit": true,
+    "types": [
+      "node"
+    ],
     "allowImportingTsExtensions": true,
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
+    "baseUrl": ".",
     "moduleResolution": "node16",
     "strictNullChecks": true
   }
